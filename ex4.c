@@ -25,6 +25,7 @@ TRIANGULO EQUILATERO
 */
 #include <stdio.h>
 #include <string.h>
+#include <locale.h>
 int main(){
 int ladoa,ladob,ladoc,somaa,somab,somac;
 scanf("%d%d%d",&ladoa,&ladob,&ladoc);
